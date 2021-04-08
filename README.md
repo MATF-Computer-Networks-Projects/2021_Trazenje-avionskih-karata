@@ -1,0 +1,2 @@
+# 2021_Trazenje-avionskih-karata
+Cilj projekta je napraviti aplikaciju koja će pomoći ljudima u traganju za avionskim kartama. Korisnici će moći da unesu datume, aerodrom odakle putuju i aerodrome ili mesta gde žele da putuju. Takođe, aplikacija će biti pogodna i za korisnike koji žele da nađu jeftine avionske karte za neki skup datuma i za veći skup mesta, slično kao sajt Skyscanner. Ideja je da omogućimo da korisnici lako daju restrikcije na mesta, datume, aviokompanije i slično.
